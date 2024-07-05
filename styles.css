@@ -1,0 +1,51 @@
+body { 
+    background-color: #f4ffe4;
+    color: #333333;
+    background-image: url('images/trilliumgradient.png');
+
+}
+
+h1 { 
+    background-image:url('images/trilliumbanner.jpg'), width="700", height="86";
+    background-color: #d5edb3;
+    color: #5c743d;
+    height: 86px;
+    font-family: Georgia, "Times New Roman", serif;
+}
+   
+h2 { 
+    background-color: #d5edb3;
+    color: #5c743d;
+    background-image: url('images/trilliumbg.gif');
+    background-repeat: no-repeat;
+    padding: 30px;
+    font-family: Georgia, "Times New Roman", serif;
+     text-align: center;
+}
+
+.companyname{
+    color: #5c743d;
+}
+
+img{
+    border-style: none;
+}    
+ 
+p { font-size: .90em;
+    text-indent: 3em;
+}
+
+ul { font-weight: bold;
+    list-style-image: url('images/trilliumbg.gif');
+}    
+
+.feature{
+    color: #33331d;
+}
+
+footer{
+    background-image:url('images/trilliumfoot.gif') ;
+    background-repeat: no-repeat;
+    background-position: right top;
+    height: 75px;
+}
